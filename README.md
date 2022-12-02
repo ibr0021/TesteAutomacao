@@ -1,2 +1,2 @@
-# TesteAutomação
-Estou estudando automação com Selenium e C#
+# TesteAutomacao
+Estou estudando automacao com Selenium e C#
